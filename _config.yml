@@ -30,7 +30,7 @@ github_username:  OpenPlantNYC
 
 # Build settings
 # theme: minima
-theme: midnight@v0.2.0
+remote_theme: pages-themes/midnight
 plugins:
   - jekyll-feed
 
