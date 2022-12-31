@@ -29,9 +29,13 @@ twitter_username: OpenPlantNYC
 github_username:  OpenPlantNYC
 
 # Build settings
-theme: minima
-# plugins:
+# theme: minima
+
+plugins:
+  - jekyll-remote-theme
 #  - jekyll-feed
+
+remote_theme: songzivong/dark-minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.

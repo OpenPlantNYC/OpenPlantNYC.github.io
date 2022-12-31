@@ -7,7 +7,8 @@ layout: home
 ---
 <a
    class="twitter-timeline"
-   href="https://twitter.com/OpenPlantNYC?ref_src=twsrc%5Etfw">
+   href="https://twitter.com/OpenPlantNYC?ref_src=twsrc%5Etfw"
+   data-theme="dark">
   Tweets by OpenPlantNYC
 </a>
 <script
@@ -15,4 +16,3 @@ layout: home
    src="https://platform.twitter.com/widgets.js"
    charset="utf-8">
 </script>
-
